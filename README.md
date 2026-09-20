@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Hi, I'm Yusistely! I spent over 15 years as an Industrial Engineer in quality management — leading audits and driving continuous improvement at companies like Tupperware, DuPont, and Procter & Gamble. Along the way, at TSYS, I became a bridge between business and the Software Development team, coordinating security training and reviewing WAF alerts with developers. That experience showed me what I love most: catching errors before they reach the end user. I'm now a QA Engineer Jr. trained at the TripleTen Latam Bootcamp, applying that same rigor to manual, web, API, and mobile testing, with growing hands-on experience in automation. I'm also a certified Executive Coach, because I believe the best teams are built when people grow.
+Hi, I'm Yusistely! I spent over 15 years as an Industrial Engineer in quality management, leading audits and driving continuous improvement at companies like Tupperware, DuPont, and Procter & Gamble. Along the way, at TSYS, I became a bridge between business and the Software Development team, coordinating security training and reviewing WAF alerts with developers. That experience showed me what I love most: catching errors before they reach the end user. I'm now a QA Engineer Jr. with hands-on experience in manual, web, API, and mobile testing, with growing hands-on experience in automation. I'm also a certified Executive Coach, because I believe the best teams are built when people grow.
 
 [My LinkedIn profile](https://www.linkedin.com/in/yusistely-luna-iis) · [My portfolio site](https://yusistely-luna.github.io/)
 
 ### My experience 🏢
 
-Today I'm a QA Engineer Jr. trained through the TripleTen Latam Bootcamp, with hands-on experience in manual, web, API, and mobile testing, plus automation fundamentals. My final project involved end-to-end QA across a full ride-booking platform — web, mobile, API, and backend — documenting 81 defects. Before pivoting into tech, I spent 15 years in quality management: leading audits with zero critical findings across global clients, and driving ISO 9001/27001 compliance at manufacturing and IT services companies.
+Today I'm a QA Engineer Jr. with hands-on experience in manual, web, API, and mobile testing, plus automation fundamentals. My final project involved end-to-end QA across a full ride-booking platform — web, mobile, API, and backend — documenting 81 defects. Before pivoting into tech, I spent 15 years in quality management: leading audits with zero critical findings across global clients, and driving ISO 9001/27001 compliance at manufacturing and IT services companies.
 
 ### Tools 🔧
 
@@ -44,18 +44,11 @@ Today I'm a QA Engineer Jr. trained through the TripleTen Latam Bootcamp, with h
 - Translating between technical and business teams
 - Team collaboration
 
-### Courses 📓
-
-- QA Engineer Bootcamp – TripleTen Latam (2026) — [Portfolio](https://yusistely-luna.github.io/)
-- Executive Coaching – Tecnológico de Monterrey (2022)
-- Top 10 de OWASP Training – ONESEC (2023)
-
 ### Certificates 🏆
 
 - Internal Auditor ISO 27001 (2019)
 - Internal Auditor ISO 9001 (2018)
 - Executive Coaching – Tecnológico de Monterrey (2022)
-- QA Engineer – TripleTen (2026)
 
 ### Projects 🔬
 
