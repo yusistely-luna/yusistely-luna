@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Yusistely! I spent over 15 years as an Industrial Engineer in quality management, leading audits and driving continuous improvement at companies like Tupperware, DuPont, and Procter & Gamble. Along the way, at TSYS, I became a bridge between business and the Software Development team, coordinating security training and reviewing WAF alerts with developers. That experience showed me what I love most: catching errors before they reach the end user. I'm now a QA Engineer Jr. with hands-on experience in manual, web, API, and mobile testing, with growing hands-on experience in automation. I'm also a certified Executive Coach, because I believe the best teams are built when people grow.
+Hi, I'm Yusistely! I spent over 15 years as an Industrial Engineer in quality management — leading audits and driving continuous improvement at companies like Tupperware, DuPont, and Procter & Gamble. Along the way, at TSYS, I became a bridge between business and the Software Development team, coordinating security training and reviewing WAF alerts with developers. That experience showed me what I love most: catching errors before they reach the end user. I'm now a QA Engineer Jr. with hands-on experience in manual, web, API, and mobile testing, with growing hands-on experience in automation. I'm also a certified Executive Coach, because I believe the best teams are built when people grow.
 
 [My LinkedIn profile](https://www.linkedin.com/in/yusistely-luna-iis) · [My portfolio site](https://yusistely-luna.github.io/)
 
@@ -44,8 +44,9 @@ Today I'm a QA Engineer Jr. with hands-on experience in manual, web, API, and mo
 - Translating between technical and business teams
 - Team collaboration
 
-### Certificates 🏆
+### Education & Certificates 🏆
 
+- QA Engineer Bootcamp – TripleTen Latam (2026)
 - Internal Auditor ISO 27001 (2019)
 - Internal Auditor ISO 9001 (2018)
 - Executive Coaching – Tecnológico de Monterrey (2022)
